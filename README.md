@@ -1,2 +1,1 @@
 # React-Dictionary
-Dur Date
